@@ -1,4 +1,6 @@
-
+Raw Data: manufacturing_6G_dataset
+Excel_file: Manufacturing_Excel
+Power BI: Manufacturing Dataset Dashboard
 Project Overview
 This project analyzes a manufacturing dataset to measure and visualize production performance, defect rates, and efficiency scores.
 
